@@ -36,7 +36,7 @@ plikach wej¶ciowych, tworz±c pliki wyj¶ciowe. G³ówn± ró¿nic± pomiêdzy
 EP3 i innymi preprocesorami jest wbudowana rozszerzalno¶æ. Ka¿da
 dyrektywa EP3 jest w rzeczywisto¶ci metod± zdefiniowan± w EP3, jednym
 z jego podmodu³ów lub w przetwarzanym pliku. Powi±zanie nazwy
-dyrektywy ze stowarzyson± metod± umo¿liwia dodawanie innych metod, co
+dyrektywy ze stowarzyszon± metod± umo¿liwia dodawanie innych metod, co
 jest rozszerzaniem preprocesora.
 
 %prep
