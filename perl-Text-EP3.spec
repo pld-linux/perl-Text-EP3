@@ -3,7 +3,7 @@ Summary:	Text-EP3 perl module
 Summary(pl):	Modu³ perla Text-EP3
 Name:		perl-Text-EP3
 Version:	1.00
-Release:	4
+Release:	5
 License:	GPL
 Group:		Development/Languages/Perl
 Group(de):	Entwicklung/Sprachen/Perl
