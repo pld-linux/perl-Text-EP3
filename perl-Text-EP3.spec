@@ -4,10 +4,10 @@ Summary(pl):	Modu³ perla Text-EP3
 Name:		perl-Text-EP3
 Version:	1.00
 Release:	3
-Copyright:	GPL
+License:	GPL
 Group:		Development/Languages/Perl
 Group(pl):	Programowanie/Jêzyki/Perl
-Source:		ftp://ftp.perl.org/pub/CPAN/modules/by-module/Text/Text-EP3-%{version}.tar.gz
+Source0:	ftp://ftp.perl.org/pub/CPAN/modules/by-module/Text/Text-EP3-%{version}.tar.gz
 BuildRequires:	rpm-perlprov >= 3.0.3-16
 BuildRequires:	perl >= 5.005_03-14
 %requires_eq	perl
@@ -15,7 +15,7 @@ Requires:	%{perl_sitearch}
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-Text-EP3 - The Extensible Perl PreProcessor. 
+Text-EP3 - The Extensible Perl PreProcessor.
 
 %description -l pl
 Text-EP3 - The Extensible Perl PreProcessor.
