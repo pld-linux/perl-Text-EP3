@@ -5,7 +5,7 @@ Summary:	Text::EP3 perl module
 Summary(pl):	Modu³ perla Text::EP3
 Name:		perl-Text-EP3
 Version:	1.00
-Release:	8
+Release:	9
 License:	GPL
 Group:		Development/Languages/Perl
 Source0:	ftp://ftp.cpan.org/pub/CPAN/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
