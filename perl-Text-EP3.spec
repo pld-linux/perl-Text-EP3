@@ -1,8 +1,8 @@
 %include	/usr/lib/rpm/macros.perl
 %define	pdir	Text
 %define	pnam	EP3
-Summary:	Text-EP3 perl module
-Summary(pl):	Modu³ perla Text-EP3
+Summary:	Text::EP3 perl module
+Summary(pl):	Modu³ perla Text::EP3
 Name:		perl-Text-EP3
 Version:	1.00
 Release:	8
@@ -15,10 +15,10 @@ BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-Text-EP3 - The Extensible Perl PreProcessor.
+Text::EP3 - The Extensible Perl PreProcessor.
 
 %description -l pl
-Text-EP3 - The Extensible Perl PreProcessor.
+Text::EP3 - The Extensible Perl PreProcessor.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
