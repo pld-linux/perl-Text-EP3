@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Text
-%define	pnam	EP3
+%define		pdir	Text
+%define		pnam	EP3
 Summary:	Text::EP3 - the extensible Perl preprocessor
 Summary(pl):	Text::EP3 - rozszerzalny preprocesor dla Perla
 Name:		perl-Text-EP3
