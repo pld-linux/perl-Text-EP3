@@ -26,7 +26,7 @@ Text::EP3 - Rozszerzalny preprocesor dla Perla.
 
 %build
 %{__perl} Makefile.PL \
-	INSTALLDIRS=vendor 
+	INSTALLDIRS=vendor
 %{__make}
 
 %install
