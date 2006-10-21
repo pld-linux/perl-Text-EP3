@@ -8,12 +8,12 @@
 Summary:	Text::EP3 - the extensible Perl preprocessor
 Summary(pl):	Text::EP3 - rozszerzalny preprocesor dla Perla
 Name:		perl-Text-EP3
-Version:	1.00
-Release:	12
+Version:	1.10
+Release:	1
 License:	unknown
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	e5c4b5fe376fb9f76a52a2b374ff7dcc
+# Source0-md5:	2081ba6bf87e59bdfc937b8a17d0f3d9
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
