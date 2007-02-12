@@ -6,7 +6,7 @@
 %define		pdir	Text
 %define		pnam	EP3
 Summary:	Text::EP3 - the extensible Perl preprocessor
-Summary(pl):	Text::EP3 - rozszerzalny preprocesor dla Perla
+Summary(pl.UTF-8):   Text::EP3 - rozszerzalny preprocesor dla Perla
 Name:		perl-Text-EP3
 Version:	1.10
 Release:	1
@@ -29,14 +29,14 @@ embedded in the file that is being processed.  By linking the
 directive name to the associated methods, other methods could be
 added, thus extending the preprocessor.
 
-%description -l pl
-Text::EP3 jest programem w Perlu, który przetwarza STDIN lub pewien
-zbiów plików wej¶ciowych, tworz±c plik wyj¶ciowy. Dzia³a on jedynie na
-plikach wej¶ciowych, tworz±c pliki wyj¶ciowe. G³ówn± ró¿nic± pomiêdzy
-EP3 i innymi preprocesorami jest wbudowana rozszerzalno¶æ. Ka¿da
-dyrektywa EP3 jest w rzeczywisto¶ci metod± zdefiniowan± w EP3, jednym
-z jego podmodu³ów lub w przetwarzanym pliku. Powi±zanie nazwy
-dyrektywy ze stowarzyszon± metod± umo¿liwia dodawanie innych metod, co
+%description -l pl.UTF-8
+Text::EP3 jest programem w Perlu, ktÃ³ry przetwarza STDIN lub pewien
+zbiÃ³w plikÃ³w wejÅ›ciowych, tworzÄ…c plik wyjÅ›ciowy. DziaÅ‚a on jedynie na
+plikach wejÅ›ciowych, tworzÄ…c pliki wyjÅ›ciowe. GÅ‚Ã³wnÄ… rÃ³Å¼nicÄ… pomiÄ™dzy
+EP3 i innymi preprocesorami jest wbudowana rozszerzalnoÅ›Ä‡. KaÅ¼da
+dyrektywa EP3 jest w rzeczywistoÅ›ci metodÄ… zdefiniowanÄ… w EP3, jednym
+z jego podmoduÅ‚Ã³w lub w przetwarzanym pliku. PowiÄ…zanie nazwy
+dyrektywy ze stowarzyszonÄ… metodÄ… umoÅ¼liwia dodawanie innych metod, co
 jest rozszerzaniem preprocesora.
 
 %prep
