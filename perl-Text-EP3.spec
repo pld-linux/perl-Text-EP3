@@ -6,7 +6,7 @@
 %define		pdir	Text
 %define		pnam	EP3
 Summary:	Text::EP3 - the extensible Perl preprocessor
-Summary(pl.UTF-8):   Text::EP3 - rozszerzalny preprocesor dla Perla
+Summary(pl.UTF-8):	Text::EP3 - rozszerzalny preprocesor dla Perla
 Name:		perl-Text-EP3
 Version:	1.10
 Release:	1
