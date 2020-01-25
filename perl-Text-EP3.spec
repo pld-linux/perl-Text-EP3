@@ -4,7 +4,6 @@
 
 %define		pdir	Text
 %define		pnam	EP3
-%include	/usr/lib/rpm/macros.perl
 Summary:	Text::EP3 - the extensible Perl preprocessor
 Summary(pl.UTF-8):	Text::EP3 - rozszerzalny preprocesor dla Perla
 Name:		perl-Text-EP3
